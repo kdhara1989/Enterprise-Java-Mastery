@@ -1,3 +1,0 @@
-# Copyright
-
-Copyright © 2026. All rights reserved.
